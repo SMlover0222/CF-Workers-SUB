@@ -12,6 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+https://tttttest.cmliussss2024.us.kg/auto
 `
 
 let urls = [];
